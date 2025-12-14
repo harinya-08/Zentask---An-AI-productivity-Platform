@@ -1,0 +1,5 @@
+{
+  "name": "ZenTask AI",
+  "description": "A beautiful, AI-powered task manager that helps you organize and brainstorm. Features Python backend support and Gemini AI integration.",
+  "requestFramePermissions": []
+}
