@@ -9,7 +9,6 @@
 ├── constants.ts                # App Constants (API URL, Mocks)
 ├── metadata.json               # Application metadata
 ├── README.md                   # Setup instructions
-├── backend.py                  # Python FastAPI Backend
 │
 ├── components/                 # UI Components
 │   ├── TaskItem.tsx            # Individual Task Item
